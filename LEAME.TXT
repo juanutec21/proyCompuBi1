@@ -1,0 +1,360 @@
+            *******************************************
+            * CompuBiblia (Logos Bible Software 2.0f) *
+            *******************************************
+	
+
+Apreciamos su compra de CompuBiblia "Logos Bible Software 2.0f". El
+propósito de este archivo es proporcionarle la información actualizada
+disponible en el momento en que este sistema sale al mercado.
+
+Inscríbase a Newswire y obtenga todas las nuevas versiones de Logos 2.0
+¡GRATIS! Envíe su nombre, dirección, teléfono en horas laborables y su
+dirección electrónica vía Internet a: NewsWire@logos.com,  escriba
+"subscripción" en la línea del asunto.
+
+
+Contenido
+---------
+I.   Requisitos del sistema.
+II.  Instrucciones para instalar por primera vez.
+III. Instrucciones para la actualización, en caso de usuarios que tengan
+     instaladas versiones anteriores de Logos 2.0.
+IV.  CaracterÌsticas no mencionadas en la GuÌa del Usuario.
+V.   Problemas identificados y cómo manejarlos
+
+
+I. Requisitos del Sistema.
+==========================
+Cualquier versión de Windows 3.1, o posterior; sistema compatible (mínimo
+un 386, DOS 3.3); 4 Mb de memoria RAM (se recomiendan 16 Mb o más);
+Microsoft Windows 3.1, o posterior; tarjeta de video y monitor VGA; 20 Mb
+de espacio disponible en el disco duro, unidad para discos de 3.5. CD-ROM
+2X o más. 
+
+
+II. Instrucciones para instalar por primera vez.
+================================================
+1. Inserte el CD2.0f y el primer disquete de instalación en las unidades
+   correspondientes.
+2. Si tiene Windows 3.1, seleccione Archivo, Correr... desde el Administra-
+   dor de Programa.
+3. En la línea de Comandos del diálogo Correr, escriba A:\INSTALACION (o la
+   letra de la unidad de disco correspondiente). 
+4. Cuando el programa lo pida, haga clic sobre OK para seleccionar automá-
+   ticamente los diccionarios predeterminados del sistema C:\LOGOS20 y
+   C:\LRSYSTEM, (o sustitúyalos por la unidad y los directorios que desea
+   establecer, y haga clic sobre OK). Le recomendamos aceptar los que sugiere
+   el sistema. 
+5. Entre su nombre y/o nombre de su compañía y haga clic sobre OK. El
+   programa le pedirá confirmar la información. 
+6. Haga clic sobre OK para aceptar la localización de la unidad de su CD-
+   ROM, o cambie la letra de la unidad  a la que corresponda. 
+7. Especifique el nombre del Grupo de Programas donde desea que se instalen
+   los iconos del programa. Por predeterminación, el sistema los colocará
+   bajo "Aplicaciones Logos". Usted puede presionar la tecla de la flecha
+   hacia abajo y elegir un grupo diferente, o escribir un nombre nuevo para
+   el grupo. Haga clic sobre OK.
+ 
+Las instrucciones ejecutadas instalarán los archivos restantes de Logos y
+usted estará listo para trabajar con CompuBiblia (Logos Bible Software 2.0f).
+
+
+III. Instrucciones para la actualización en caso de usuarios que tengan 
+     instalada versiones anteriores de Logos 2.0.
+=======================================================================
+Si usted tiene instalada la versión 1.6 de Logos Bible Software, pase por
+alto estas instrucciones e instale esta versión de Logos siguiendo las
+instrucciones en la sección anterior. Si tiene instaladas las versiones
+2.0, 2.0a, 2.0b, 2.0c, 2.0d de Logos Bible Software, siga las instrucciones
+siguientes:
+
+1. Abra Logos y seleccione "Hacer copia de seguridad del sistema Logos"
+   desde el menú Herramientas. 
+2. En el Diálogo "Hacer copia de seguridad de los archivos del sistema"
+   seleccione un directorio que no sea su directorio \LOGOS20 o \LRSYSTEM y
+   haga clic sobre OK.
+3. Cierre Logos.
+4. Inserte el CD ROM de Logos 2.0f.
+5. En el Administrador de Programa de Windows 3.1 desde el menú Archivo
+   seleccione Correr... En la Barra de Tareas de Windows 95... seleccione
+   Inicio, Correr... 
+6. En la línea de comandos del diálogo Correr, escriba D:\ACTUALIZAR (o la
+   letra correspondiente a instalaciones de CD) y presione la tecla ENTRAR.
+7. Cuando el programa lo pida, haga clic sobre OK para seleccionar el
+   diectorio predeterminado C:\LOGOS20. Si usted ha instalado las versiones
+   v2.0, v2.0a, v2.0b v2.0c, o v2.0d de Logos, el texto C:\LRSISTEMA
+   aparecerá en gris y no podrá editarse. (Esta condición se mantendrá en
+   la sección [SISTEMASLR] del archivo win.ini.). Le recomendamos aceptar
+   los predeterminados.
+8. El programa le pedirá el nombre del Grupo donde usted desea instalar los
+   iconos del programa. Si usted desea mantener el mismo grupo de la
+   instalación anterior, presione la tecla de la flecha hacia abajo y
+   seleccione de la lista el nombre del grupo. Haga clic sobre OK.
+9. El programa le pedirá remplazar el archivo WORDS.LWF. Seleccione los
+   programas del sistema de Biblioteca Logos que está actualizando y haga
+   clic sobre OK. Si usted ha abierto un juego de libros a su gusto,
+   seleccione "Ninguno de los anteriores" y haga clic sobre OK. Si usted
+   selecciona "Ninguno de los anteriores", o si tiene libros abiertos que
+   no están incluidos en los niveles 1 al 4, tendrá que reconstruir la
+   Lista Global de Palabras para que el Explorador de Temas pueda trabajar
+   globalmente. Para más información, vea la Sección V de este archivo.
+ 
+El programa se hará cargo de instalar los archivos restantes de Logos. Haga
+clic sobre OK cuando aparezca el diálogo con el mensaje "¡Instalación
+Terminada!" y usted estará listo para trabajar con CompuBiblia (Logos Bible
+Software 2.0f).
+ 
+
+IV. CaracterÌsticas no mencionadas en la Guía del Usuario.
+==========================================================
+
+Vinculaciones DDE con Parsons, QuickVerse y otros programas para Biblias
+------------------------------------------------------------------------
+Desplazar: Logos también mostrará Seed Master, QuickVerse, y la Biblioteca
+QuickVerse, si la opción "Desplazar Biblias incluye otros programas de
+Biblias" está activada en el Panel DDE/DVI del diálogo de Preferencias. 
+
+Saltos de Biblia: Logos saltará a lugares en Seed Master, QuickVerse, y la
+Biblioteca de QuickVerse, si Saltos de Biblia está activado en el Panel
+DDE/DVI del diálogo de Preferencias. 
+
+Búsquedas: Al seleccionar la opción "Buscar en otros programas ..." del
+menú del botón derecho del mouse en las búsquedas, Logos buscará otros
+programas de Biblias en el orden siguiente: QuickVerse, Biblioteca de
+QuickVerse y Seed Master. Si usted tiene más de una de estas aplicaciones
+corriendo cuando se inicia la búsqueda, Logos buscará en este orden. Por
+ejemplo, si la Biblioteca de QuickVerse aparece en la lista de Otros
+Programas de Biblias en el panel DDE/DVI del dialogo de Preferencias de
+Logos, pero QuickVerse también está corriendo, Logos enviará su comando de
+búsqueda a QuickVerse. Para que Logos busque en la Biblioteca de QuickVerse
+en vez de QuickVerse, cierre QuickVerse antes de correr la búsqueda. 
+
+Para instalar QuickVerse en Windows 4.0 para que corra con Logos 2.0f:
+
+Abra QuickVerse para Windows. Seleccione el menú de Opciones, y marque
+Otras Aplicaciones. En las líneas de "Biblioteca QV " y "Diccionario" de
+este diálogo, " escriba la ruta y el nombre para Logos.exe. 
+
+Desplazar: si la opción Sincronizar Biblioteca QuickVerse... " está
+activada, en el diálogo de Otras Aplicaciones en QuickVerse para Windows,
+esta aplicación desplazará libros de Logos "
+
+Saltos de Biblia: Igual que desplazar.
+
+Búsqueda: Destaque una palabra en QuickVerse para Windows, haga clic sobre
+el botón de la barra de herramientas de la Biblioteca de QuickVerse, o
+seleccione el menú de Búsqueda y marque "Biblioteca QuickVerse" para buscar
+la palabra indicada en Logos 2.0f. Para ejecutar la búsqueda de un Vínculo
+clave, en inglés, en Logos 2.0f de QuickVerse, seleccione el menú de
+Búsqueda y marque Diccionario. 
+
+Para más detalles sobre Vínculos Clave en Logos 2.0f, refiérase a la Guía
+del usuario de Logos
+
+Para instalar la Biblioteca de QuickVerse en Windows para que corra con
+Logos 2.0f:
+
+En la Biblioteca de QuickVerse, seleccione el menú de Opciones, y después
+Preferencias. En "QuickVerse for Windows" en la línea del diálogo de
+Preferencias, escriba la ruta y el nombre del archivo para Logos.exe. 
+
+Desplazar: Es automático si se ejecuta el paso anterior. 
+
+Saltos de Biblia : Igual que desplazar.
+
+Búsqueda: después de seleccionar texto. Haga clic sobre el botón de la
+barra de herramientas de QuickVerse, o seleccione e menú de Búsqueda y
+marque QuickVerse para búsqueda en Logos.
+
+
+Para instalar QuickVerse en Windows 3.0 para trabajar con Logos 2.0f:
+
+Siga los pasos indicados para QuickVerse en Windows 4.0. Tenga presente que
+la opción de la Biblioteca QV no está disponible, por lo tanto la búsqueda
+estará limitada a una búsqueda del Vínculo Clave en inglés.
+
+
+Macros para Procesadores de palabras
+------------------------------------------------------
+Una macro de AmiPro está ahora disponible vía el Internet en nuestra
+dirección del Web http://www.logos.com/support/supsol.htm. Consulte nuestra
+página Web (http://www.logos.com) para otras actualizaciones y mejoras en
+los programas. 
+
+Word 7.0
+El proceso de instalación carga automáticamente un archivo llamado
+LOGOS20.DOT en su directorio LOGOS20. Copie esta plantilla en su directorio
+WINWORD\INICIAR y corra Word. La plantilla instalará automáticamente dos
+botones en barra de herramientas para las nuevas macros. 
+
+WordPerfect
+Copie el archivo LOGOS20.WCM en su directorio WPWIN6X\MACROS (donde la X es
+su versión de Word Perfect). Ejecute la macro seleccionando Herramientas,
+Macros, Reproducir. Escriba LOGOS20 en la caja indicada y haga clic
+sobre OK.
+
+
+Referencias estandarizadas (RSs)
+---------------------------------------------
+En versiones anteriores se podían vincular Biblias y Comentarios, y
+desplazarlos paralelamente. Sin embargo, hay otros tipos de libros que
+deben verse en paralelo utilizando su propio sistema de organización
+reconocido. Uno de estos es la Concordia Triglotta. Ahora usted puede
+vincular libros como la Concordia Triglotta, y tener los tres libros
+desplazados juntos paralelamente. Sencillamente, abra los libros que desea
+desplazar juntos, haga clic sobre el botón vincular, en la Barra de
+herramientas de la ventana de libros, y conéctelos al mismo vínculo. 
+
+
+Respaldo al IntelliMouse 
+----------------------------------
+El Sistema de Biblioteca de Logos respalda el IntelliMouse de Microsoft en 
+Windows 95. Colocando el cursor del mouse sobre una ventana y girando la
+rueda hará que se despliegue la ventana, aunque esté en un diálogo. Al
+hacer clic con la rueda del mouse sobre una ventana, activa la modalidad de
+autodesplazamiento. El cursor del mouse cambiará a cursor multidireccional,
+indicando las direcciones hacia las cuales puede desplazarse. Para
+desactivar esta modalidad, haga clic nuevamente en la rueda del mouse. 
+
+
+V. Problemas identificados y cómo manejarlos
+=================================================
+
+El explorador temático no está disponible globalmente.
+------------------------------------------------------
+Si el Explorador temático no puede abrirse globalmente o si no está
+disponible cuando no hay libros abiertos, la Lista Global de Palabras no
+está al día y debe  reconstruirse. Para reconstruir la Lista Global de
+Palabras, abra Logos 2.0f, seleccione el menú Herramientas y marque
+Reconstruir lista global de palabras.
+
+Usar todas las coincidencias de carácter comodín. 
+-------------------------------------------------
+La opción de búsqueda "Usar todas las coincidencias de carácter comodín",
+trabajará únicamente si Logos tiene disponible una Lista Global de
+Palabras. Si la Lista Global de Palabras está disponible, pero no está al
+día, está opción estará limitada a las palabras que se encuentren en la
+"Lista global de palabras" disponible. 
+
+
+Macros de procesadores de palabras
+---------------------------------------------------
+WordPerfect
+La macro para WordPerfect está preparada para trabajar con WordPerfect para
+las versiones de Windows 6.0 y posteriores.. Esta macro no funciona bien
+con versiones anteriores.
+
+Instalación de Logos
+----------------------------
+Si usted está instalando Logos 2.0f en el sistema operativo de Windows 3.1,
+cuando haya creado el nuevo icono, el programa tratará de abrir Windows de
+nuevo. En ese momento inicie la computadora manualmente para reactivar el
+sistema. Después de iniciarla de nuevo, abra Windows 3.1 y continúe
+trabajando.
+
+Activar Logos 
+--------------------
+Si usted ha instalado ya una versión anterior de Logos 2.0, la pantalla de
+inicio de esa versión pudiera haber sido remplazada por una diferente. 
+
+Impresión
+--------------
+Si usted está imprimiendo un artículo que contiene gráficos (la Guía del
+Usuario de Logos, por ejemplo) el tamaño de los gráficos es más pequeño del
+que aparece en la pantalla. La reducción en el tamaño está directamente
+relacionada con la resolución de su impresora. Por ejemplo, una impresora
+de 600 dpi imprimirá los gráficos 200% más pequeños que una de 300 dpi. 
+
+
+Archivos de respaldo 
+-----------------------------
+Logos 2.0f no instalará en el directorio  \<LRSYSTEM> los archivos de
+Ayuda, las sugerencias del día, ni la Guía del Usuario. Estas herramientas
+sólo estarán disponibles cuando abra Logos y tenga el CD-ROM original del
+programa en la unidad correspondiente.
+
+Alternativas de orden de libros en Rangos de búsqueda y Biblias. 
+----------------------------------------------------------------
+No siempre se obtienen los resultados esperados al usar Rangos de
+Versículos predefinidos, o al escribir un Rango de Versículos incluyendo
+guiones para indicar el rango en el campo correspondiente, en el diálogo de
+búsqueda. Logos utiliza el orden de libros de la versión King James para
+rangos de búsqueda predefinidos. Varias Biblias utilizan versiones
+diferentes, aunque no limitadas a solo estas, la Tanakh, la Septuaginta, y
+la Biblia Hebraica Stuttgartensia.
+
+Si tiene dificultades para expresar un rango de libros y para obtener
+resultados correctos, intente incluir cada libro individualmente, en el
+campo del Rango de versículos. 
+
+DVI y Windows 3.1x
+--------------------
+Si recibe una advertencia de error mientras está tratando de insertar un
+versículo con DVI, o la herramienta DVI no inserta el versículo en el
+documento seleccionado, compruebe la línea ARCHIVO= en su CONFIG.SYS. El
+valor al final de esta línea debe ser por lo menos 20, preferiblemente 30,
+para que DVI funcione correctamente en Windows 3.1x.
+
+
+Texto transliterado 
+--------------------------
+Si usted instala Logos 2.0f vía una Actualización en un CD-ROM, el texto
+transliterado quizá no le luzca bien. La apariencia se debe a una fuente
+fuera de su encuadre. Para cambiar la fuente del texto transliterado de
+"The Bible Knowledge Commentary", siga las instrucciones siguientes: 
+
+ * Inicie Logos, abra el Diálogo de Preferencias. 
+ * Seleccione el panel "Fuentes."
+ * Seleccione "The Bible Knowledge Commentary" de la lista desplegable
+   llamada  "Mapa de fuente para".
+ * Seleccione la línea "Transliterated Text, Semitica" en la casilla
+   "Estilo de fuente". 
+ * Haga clic sobre el botón "Cambiar...". 
+ * Seleccione la fuente SemiticaDict de la lista. 
+ * Haga clic sobre OK en el diálogo de fuentes y en el de Preferencias para
+   que se efectúe el cambio. 
+
+
+Saltos a lugares en el Internet y a Windows 3.1x
+------------------------------------------------
+Están disponibles vínculos a hipertexto de páginas de la Web desde
+distintos puntos en Logos 2.0f. (por ejemplo, desde la opción "Ir a
+http://www.logos.com" en el menú Ayuda). Para que ésta funcione, en Windows
+3.1x, cuando se corre Logos 2.0f, el Explorador del Internet debe estar
+corriendo en el sistema.
+
+
+Registro de Iniciación
+------------------------------
+Si usted está teniendo problemas para iniciar Logos 2.0f, inícielo
+corriendo "LOGOS /B" desde Archivo, Correr. 
+
+1. Desde el Administrador de programas, seleccione el menú de Archivo.
+2. Del menú Archivo, seleccione Correr. 
+3. En la línea de Comando del diálogo Correr, escriba
+   'C:\LOGOS20\LOGOS.EXE /B' y haga clic sobre OK. Cuando ocurra el error,
+   imprima el archivo C:\LOGOS20\BOOTLOG.LOG desde el programa Write de
+   Windows, u otro procesador (no Notepad). Tenga esta información a mano
+   cuando llame al servicio de Asistencia Técnica de Logos.
+
+Si tiene problemas para iniciar Logos 2.0f en Windows 95, inicie Logos de
+la siguiente forma:
+
+1. Haga clic sobre Inicio y seleccione Correr. 
+2. Sobre la línea Abrir escriba 'C:\LOGOS20\LOGOS.EXE /B' y haga clic sobre
+OK. Después de que ocurra el error localice el archivo BOOTLOG.LOG en el
+directorio LOGOS20, y haga doble clic sobre el mismo. Llévelo a Wordpad e
+imprímalo. Tenga esta información a mano cuando llame al servicio de
+Asistencia Técnica de Logos.
+
+
+SIL Fuentes Encore (TM) Marca Registrada 1992-1996 Instituto Lingüístico de
+Verano. Todos los derechos reservados. Microsoft y Windows son marcas
+registradas de Microsoft Corporation. Todas las otras marcas registradas
+son propiedad de sus respectivos dueños.
+
+Copyright 1995-1998 Logos Research Systems, Inc. Todos los derechos reservados. 
+
+
+Ultima actualización: 06 de abril de 1998
+
